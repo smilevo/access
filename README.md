@@ -1,2 +1,2 @@
 # Accessibility Review Identification
-https://smilevo.github.io/access/index.html
+https://smilevo.github.io/access/
